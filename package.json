@@ -1,13 +1,13 @@
 {
   "name": "web-server",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Weather App",
+  "main": "src/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Juan Cruz Mateos",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.2",
